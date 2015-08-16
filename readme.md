@@ -1,4 +1,4 @@
-#Learn How to use Git
+#Git is a distributed version control system
 ##First Lesson
 
 
